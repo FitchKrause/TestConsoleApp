@@ -10,6 +10,8 @@ namespace TestConsoleApp
     {
         static void Main(string[] args)
         {
+            string Text = "This is working!!!";
+            Console.WriteLine(Text);
         }
     }
 }

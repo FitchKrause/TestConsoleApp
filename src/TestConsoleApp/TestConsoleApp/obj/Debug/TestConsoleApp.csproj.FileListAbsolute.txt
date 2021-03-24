@@ -1,0 +1,7 @@
+C:\Users\413_4\Documents\GitHub\TestConsoleApp\src\TestConsoleApp\TestConsoleApp\bin\Debug\TestConsoleApp.exe.config
+C:\Users\413_4\Documents\GitHub\TestConsoleApp\src\TestConsoleApp\TestConsoleApp\bin\Debug\TestConsoleApp.exe
+C:\Users\413_4\Documents\GitHub\TestConsoleApp\src\TestConsoleApp\TestConsoleApp\bin\Debug\TestConsoleApp.pdb
+C:\Users\413_4\Documents\GitHub\TestConsoleApp\src\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.csprojAssemblyReference.cache
+C:\Users\413_4\Documents\GitHub\TestConsoleApp\src\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\413_4\Documents\GitHub\TestConsoleApp\src\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.exe
+C:\Users\413_4\Documents\GitHub\TestConsoleApp\src\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.pdb
