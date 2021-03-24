@@ -19,7 +19,7 @@ namespace TestConsoleApp
                 OutNums = 8 * i;
                 if (OutNums % 16 == 0)
                 {
-                    OutNums += MathMagic(OutNums, 8);
+                    OutNums = MathMagic(OutNums, 8);
                 }
                 Console.WriteLine(OutNums);
             }
