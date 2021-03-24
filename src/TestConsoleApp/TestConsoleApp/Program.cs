@@ -17,7 +17,17 @@ namespace TestConsoleApp
             for (int i = 1; i <= MaxNumIterations; i++)
             {
                 OutNums = 8 * i;
+                if (OutNums % 16 == 0)
+                {
+                    OutNums += MathMagic(OutNums, 8);
+                }
                 Console.WriteLine(OutNums);
+            }
+
+            ///Test function
+            int MathMagic(int Num, int Multiplier)
+            {
+                return Num * Multiplier;
             }
         }
     }
