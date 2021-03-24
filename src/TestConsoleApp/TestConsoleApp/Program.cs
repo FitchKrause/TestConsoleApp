@@ -10,8 +10,15 @@ namespace TestConsoleApp
     {
         static void Main(string[] args)
         {
-            string Text = "This is working!!!";
-            Console.WriteLine(Text);
+            ///Initialization
+            int MaxNumIterations = 16;
+            int OutNums = 0;
+
+            for (int i = 1; i <= MaxNumIterations; i++)
+            {
+                OutNums = 8 * i;
+                Console.WriteLine(OutNums);
+            }
         }
     }
 }
